@@ -1,4 +1,6 @@
 # HR_Analytics_Analysis_Dashboard
+<img width="685" height="530" alt="Screenshot (187)" src="https://github.com/user-attachments/assets/7c7917bd-8a1a-49f1-b096-812f47a0a473" />
+
 ## Project Overview
 This project uses the HR Analytics dataset to analyse workforce demographics, employee attrition, and departmental performance. Using Microsoft Excel, the goal is to identify patterns influencing employee retention, evaluate workforce distribution, and support HR in improving engagement and decision-making through data insights.
 ________________________________________
